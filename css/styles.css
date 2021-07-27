@@ -95,9 +95,10 @@ a {
   border-radius: 0;
 }
 .Experience{
-  margin-left: 550px;
+  margin-left: auto;
   margin-right: auto;
     font-size: 1.5626rem;
+    padding-left: 27%;
 }
 
 .Skills {
